@@ -93,8 +93,3 @@ Speed : 75%
 
 [Watch PWM Project](https://youtube.com/shorts/aQhgmDaKkmM?si=wGGZJXmUk2Rc0WaN)
 
----
-
-## 📞 Contact
-
-For any questions or suggestions, feel free to contact me.
